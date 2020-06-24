@@ -1,0 +1,11 @@
+E:\Desktop\krakow\.net\eengine\eengine\obj\Debug\netcoreapp2.1\eengine.csprojAssemblyReference.cache
+E:\Desktop\krakow\.net\eengine\eengine\bin\Debug\netcoreapp2.1\eengine.deps.json
+E:\Desktop\krakow\.net\eengine\eengine\bin\Debug\netcoreapp2.1\eengine.runtimeconfig.json
+E:\Desktop\krakow\.net\eengine\eengine\bin\Debug\netcoreapp2.1\eengine.runtimeconfig.dev.json
+E:\Desktop\krakow\.net\eengine\eengine\bin\Debug\netcoreapp2.1\eengine.dll
+E:\Desktop\krakow\.net\eengine\eengine\bin\Debug\netcoreapp2.1\eengine.pdb
+E:\Desktop\krakow\.net\eengine\eengine\obj\Debug\netcoreapp2.1\eengine.csproj.CoreCompileInputs.cache
+E:\Desktop\krakow\.net\eengine\eengine\obj\Debug\netcoreapp2.1\eengine.AssemblyInfoInputs.cache
+E:\Desktop\krakow\.net\eengine\eengine\obj\Debug\netcoreapp2.1\eengine.AssemblyInfo.cs
+E:\Desktop\krakow\.net\eengine\eengine\obj\Debug\netcoreapp2.1\eengine.dll
+E:\Desktop\krakow\.net\eengine\eengine\obj\Debug\netcoreapp2.1\eengine.pdb
